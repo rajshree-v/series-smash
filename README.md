@@ -27,4 +27,4 @@ Or you can directly add the images by going to phpMyAdmin tab through the localh
 
 #Make sure to save all the files in the same folder
 
-![Homepage Screenshot](https://github.com/rajshree-v/university-counsellor/blob/main/photos/Homepage%20ss.png)
+![Mainpage Screenshot](https://github.com/rajshree-v/series-smash/blob/main/Screenshot.png)
