@@ -1,11 +1,6 @@
-# series-smash
-#Series-Smash
-Facemash was a website created by Mark Zuckerberg in 2003, where people had to choose between two photos. 
-Series-Smash is website based on algorithm used for creating facemash in the Social Network Movie i.e. the elo rating system.
+Database Structure in SQL: These are the properties of all the rows made in the php database.
 
-#Database Structure in SQL: These are the properties of all the rows made in the php database.
-
-#In case you want to create the database directly, then:
+In case you want to create the database directly, then:
 The name of the database: facemash
 The name of the table to store all the image and score information: photos
 
