@@ -1,3 +1,6 @@
+
+![Mainpage Screenshot](https://github.com/rajshree-v/series-smash/blob/main/Screenshot.png)
+
 Database Structure in SQL: These are the properties of all the rows made in the php database.
 
 In case you want to create the database directly, then:
@@ -26,5 +29,3 @@ To add different images in the database, enter the name in the text-box and Clic
 Or you can directly add the images by going to phpMyAdmin tab through the localhost in XAMPP.
 
 #Make sure to save all the files in the same folder
-
-![Mainpage Screenshot](https://github.com/rajshree-v/series-smash/blob/main/Screenshot.png)
